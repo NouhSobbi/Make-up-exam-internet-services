@@ -1,0 +1,7 @@
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\bin\Debug\net5.0\Bank.Data.dll
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\bin\Debug\net5.0\Bank.Model.dll
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\bin\Debug\net5.0\Bank.Data.pdb
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\obj\Debug\net5.0\Bank.Services.csprojAssemblyReference.cache
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\obj\Debug\net5.0\Bank.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\obj\Debug\net5.0\Bank.Services.AssemblyInfoInputs.cache
+C:\Users\sobbi\OneDrive\Desktop\2021_1\uacsIS\Bank.Services\obj\Debug\net5.0\Bank.Services.AssemblyInfo.cs

@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Services\\Bank.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj",
+        "projectName": "Bank.Data",
+        "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj",
+        "packagesPath": "C:\\Users\\sobbi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sobbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\Bank.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\Bank.Model.csproj",
+        "projectName": "Bank.Model",
+        "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\Bank.Model.csproj",
+        "packagesPath": "C:\\Users\\sobbi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sobbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj": {
+                "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Services\\Bank.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Services\\Bank.Services.csproj",
+        "projectName": "Bank.Services",
+        "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Services\\Bank.Services.csproj",
+        "packagesPath": "C:\\Users\\sobbi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sobbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj": {
+                "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Data\\Bank.Data.csproj"
+              },
+              "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\Bank.Model.csproj": {
+                "projectPath": "C:\\Users\\sobbi\\OneDrive\\Desktop\\2021_1\\uacsIS\\Bank.Model\\Bank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
